@@ -35,7 +35,7 @@ On the left-hand side, I expanded **Manage** and scrolled down to **Microsoft En
 
 <img width="137" height="467" alt="scrolling down to Entra connect" src="https://github.com/user-attachments/assets/c2ed2f6f-a7d4-4116-b8ce-15b5c3a5f989" />
 
-From there, I clicked the **Get Started** tab, then **Manage**, and scrolled down to find the download options. I selected the **Connect Sync Agent**, accepted the terms, and downloaded it.
+From there, I clicked the **Get Started** tab, then **Manage**, and scrolled down to find the download options. I selected the **Download Connect Sync Agent**, accepted the terms, and downloaded it.
 
 <img width="782" height="735" alt="Entra connect page and accept terms download" src="https://github.com/user-attachments/assets/91ac0ce7-dcab-40d3-9b9e-655a81a113f9" />
 
