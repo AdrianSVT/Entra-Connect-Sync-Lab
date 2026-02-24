@@ -60,9 +60,13 @@ Once the installation completed, I was brought to the **User Sign-In** page, whi
 
 <img width="446" height="318" alt="user sign-on" src="https://github.com/user-attachments/assets/97702226-409c-45d9-8626-2529f0f096fa" />
 
-On the following page, I was prompted to enter my Microsoft Entra ID Hybrid Identity Administrator or Global Administrator credentials. After entering my username and clicking **Next**, a separate authentication window appeared asking me to verify my Microsoft account. Once authenticated, I was taken to the next step.
+On the following page, I was prompted to enter my Microsoft Entra ID Hybrid Identity Administrator or Global Administrator credentials. 
 
 <img width="452" height="325" alt="enter my miicrossoft entra domain" src="https://github.com/user-attachments/assets/f662c3a2-e763-44f1-a870-38f970ce9a40" />
+
+After entering my username and clicking **Next**, a separate authentication window appeared asking me to verify my Microsoft account. Once authenticated, I was taken to the next step.
+
+<img width="287" height="256" alt="sign into microsoft" src="https://github.com/user-attachments/assets/fad5c8a3-2aac-4f62-8866-2b6587eb7ddc" />
 
 ---
 
