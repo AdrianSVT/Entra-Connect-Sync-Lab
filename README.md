@@ -14,7 +14,7 @@ I navigated to **Active Directory Users and Computers** from the Server Manager 
 
 <img width="227" height="200" alt="creating Entra Connect OU" src="https://github.com/user-attachments/assets/a1f85a18-715a-404c-ab3b-a6baad6db729" />
 
-With the OU created, I populated it with a few users and groups that I wanted to sync. Refer to [This Lab] for the steps on creating new users and groups in Active Directory.
+With the OU created, I populated it with a few users and groups that I wanted to sync. Refer to [This Lab](https://github.com/AdrianSVT/Active-Directory-Users-Groups-and-GPOs) for the steps on creating new users and groups in Active Directory.
 
 <img width="283" height="238" alt="creation of user, groups" src="https://github.com/user-attachments/assets/85bfcaf4-9421-4d74-a52e-d3e46ccf824e" />
 
